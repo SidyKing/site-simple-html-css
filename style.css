@@ -1,0 +1,41 @@
+body{
+	font-family:arial;
+	background:white;
+	color:indigo;
+ background-attachment: fixed;
+ background-repeat:no-repeat;
+background-size:cover;
+margin: 0;
+padding: 0;
+}
+
+
+#image{
+	text-align:center;
+}
+#en_tete{
+	text-align:center;
+	text-decoration:underline;
+}
+#corps{
+	text-align:center;
+}
+
+a:link{
+	color:white;
+}
+a:visited{
+	color:white;
+}
+#bio{
+	font-variant:normal;
+	text-transform:none;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	font-style:italic;
+	line-height:1.5;
+}
+
+
+
